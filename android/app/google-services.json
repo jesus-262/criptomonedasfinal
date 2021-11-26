@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "877423317462",
+    "project_id": "cripto-db248",
+    "storage_bucket": "cripto-db248.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877423317462:android:dc6ee117d66aa1f1119477",
+        "android_client_info": {
+          "package_name": "com.example.crip"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877423317462-4qjq6m5h9v5brtpp0pvag8sv28neihh5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnJ1ftK3V5GPvsB7mluX-2zf0QsLSbqqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877423317462-4qjq6m5h9v5brtpp0pvag8sv28neihh5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
